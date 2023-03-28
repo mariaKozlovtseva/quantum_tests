@@ -1,0 +1,10 @@
+# Pycharm
+.idea
+
+
+# exclude data 
+# /data
+
+
+__pycache__
+.ipynb_checkpoints
