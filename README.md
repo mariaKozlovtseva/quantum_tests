@@ -1,7 +1,7 @@
 # Getting Started
 
 ## Environment Setup
-Code was tested on Windows machine, in case of different machine, I created bash setup scripts
+Code was tested on Windows machine, in case of different machine, I created bash setup scripts (+ when running commands mind slash sign `/` for linux or `\` for win)
 1. Install [Anaconda with Python 3](https://www.anaconda.com/products/individual)
    or [Miniconda with Python 3](https://docs.conda.io/en/latest/miniconda.html).
 2. Run `./env_create` to create `quantum_env` conda environment (make sure that .sh files are executable, if not write `chmod +x {your_filename}.sh`).
